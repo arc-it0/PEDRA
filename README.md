@@ -256,7 +256,6 @@ http://localhost:8000
 
 ## Security and Good Practices
 
-- Never commit `.env`, API keys, or credentials.
 - Verify medical responses against official sources.
 - Review the critic status before interpreting a response as fully supported.
 - Keep the corpus and dependencies under version control.
