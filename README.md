@@ -254,12 +254,6 @@ http://localhost:8000
 
 ---
 
-## Security and Good Practices
-
-- Verify medical responses against official sources.
-- Review the critic status before interpreting a response as fully supported.
-- Keep the corpus and dependencies under version control.
-- Run the test suite before delivery.
 
 ---
 
